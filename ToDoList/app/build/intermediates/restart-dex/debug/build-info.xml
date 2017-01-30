@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="955651441794984"
+    token="3540937311986720544"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="955554217820948"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="955651441794984"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

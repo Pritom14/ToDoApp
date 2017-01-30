@@ -1,0 +1,1784 @@
+[
+    {
+        "outputFile": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 101,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 101,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 107,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 107,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 122,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 122,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 98,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 98,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 105,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 105,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 85,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 85,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 102,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 102,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endColumn": 112,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 112,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 77,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1127,
+                        "endColumn": 77,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 77,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 77,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 78,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endColumn": 78,
+                        "endOffset": 1357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 99,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1362,
+                        "endColumn": 99,
+                        "endOffset": 1457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 99,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1462,
+                        "endColumn": 99,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endColumn": 95,
+                    "endOffset": 1471
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endColumn": 95,
+                        "endOffset": 1653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1476,
+                    "endColumn": 102,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1658,
+                        "endColumn": 102,
+                        "endOffset": 1756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endColumn": 98,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1761,
+                        "endColumn": 98,
+                        "endOffset": 1855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 106,
+                    "endOffset": 1780
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1860,
+                        "endColumn": 106,
+                        "endOffset": 1962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1785,
+                    "endColumn": 115,
+                    "endOffset": 1896
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1967,
+                        "endColumn": 115,
+                        "endOffset": 2078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1901,
+                    "endColumn": 95,
+                    "endOffset": 1992
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2083,
+                        "endColumn": 95,
+                        "endOffset": 2174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1997,
+                    "endColumn": 100,
+                    "endOffset": 2093
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 100,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2098,
+                    "endColumn": 109,
+                    "endOffset": 2203
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 362,
+                        "endColumn": 109,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2208,
+                    "endColumn": 80,
+                    "endOffset": 2284
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 80,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2289,
+                    "endColumn": 102,
+                    "endOffset": 2387
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 102,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2392,
+                    "endColumn": 115,
+                    "endOffset": 2503
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 115,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2508,
+                    "endColumn": 105,
+                    "endOffset": 2609
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 105,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2614,
+                    "endColumn": 87,
+                    "endOffset": 2697
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 87,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2702,
+                    "endColumn": 85,
+                    "endOffset": 2783
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 85,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2788,
+                    "endColumn": 88,
+                    "endOffset": 2872
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1052,
+                        "endColumn": 88,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2877,
+                    "endColumn": 83,
+                    "endOffset": 2956
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 83,
+                        "endOffset": 1220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2961,
+                    "endColumn": 96,
+                    "endOffset": 3053
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1225,
+                        "endColumn": 96,
+                        "endOffset": 1317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3058,
+                    "endColumn": 100,
+                    "endOffset": 3154
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2179,
+                        "endColumn": 100,
+                        "endOffset": 2275
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 101,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 101,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 107,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 107,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 122,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 122,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 98,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 98,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 105,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 105,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 85,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 85,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 102,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 102,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endColumn": 112,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 112,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 77,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1127,
+                        "endColumn": 77,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 77,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 77,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 78,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endColumn": 78,
+                        "endOffset": 1357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 99,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1362,
+                        "endColumn": 99,
+                        "endOffset": 1457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 99,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1462,
+                        "endColumn": 99,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endColumn": 95,
+                    "endOffset": 1471
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endColumn": 95,
+                        "endOffset": 1653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1476,
+                    "endColumn": 102,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1658,
+                        "endColumn": 102,
+                        "endOffset": 1756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endColumn": 98,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1761,
+                        "endColumn": 98,
+                        "endOffset": 1855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 106,
+                    "endOffset": 1780
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1860,
+                        "endColumn": 106,
+                        "endOffset": 1962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1785,
+                    "endColumn": 115,
+                    "endOffset": 1896
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1967,
+                        "endColumn": 115,
+                        "endOffset": 2078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1901,
+                    "endColumn": 95,
+                    "endOffset": 1992
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2083,
+                        "endColumn": 95,
+                        "endOffset": 2174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1997,
+                    "endColumn": 100,
+                    "endOffset": 2093
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 100,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2098,
+                    "endColumn": 109,
+                    "endOffset": 2203
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 362,
+                        "endColumn": 109,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2208,
+                    "endColumn": 80,
+                    "endOffset": 2284
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 80,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2289,
+                    "endColumn": 102,
+                    "endOffset": 2387
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 102,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2392,
+                    "endColumn": 115,
+                    "endOffset": 2503
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 115,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2508,
+                    "endColumn": 105,
+                    "endOffset": 2609
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 105,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2614,
+                    "endColumn": 87,
+                    "endOffset": 2697
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 87,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2702,
+                    "endColumn": 85,
+                    "endOffset": 2783
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 85,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2788,
+                    "endColumn": 88,
+                    "endOffset": 2872
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1052,
+                        "endColumn": 88,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2877,
+                    "endColumn": 83,
+                    "endOffset": 2956
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 83,
+                        "endOffset": 1220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2961,
+                    "endColumn": 96,
+                    "endOffset": 3053
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1225,
+                        "endColumn": 96,
+                        "endOffset": 1317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3058,
+                    "endColumn": 100,
+                    "endOffset": 3154
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2179,
+                        "endColumn": 100,
+                        "endOffset": 2275
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 101,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 101,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 107,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 107,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 122,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 122,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 98,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 98,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 105,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 105,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 85,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 85,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 102,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 102,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endColumn": 112,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 112,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 77,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1127,
+                        "endColumn": 77,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 77,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 77,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 78,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endColumn": 78,
+                        "endOffset": 1357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 99,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1362,
+                        "endColumn": 99,
+                        "endOffset": 1457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 99,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1462,
+                        "endColumn": 99,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endColumn": 95,
+                    "endOffset": 1471
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endColumn": 95,
+                        "endOffset": 1653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1476,
+                    "endColumn": 102,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1658,
+                        "endColumn": 102,
+                        "endOffset": 1756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endColumn": 98,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1761,
+                        "endColumn": 98,
+                        "endOffset": 1855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 106,
+                    "endOffset": 1780
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1860,
+                        "endColumn": 106,
+                        "endOffset": 1962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1785,
+                    "endColumn": 115,
+                    "endOffset": 1896
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1967,
+                        "endColumn": 115,
+                        "endOffset": 2078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1901,
+                    "endColumn": 95,
+                    "endOffset": 1992
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2083,
+                        "endColumn": 95,
+                        "endOffset": 2174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1997,
+                    "endColumn": 100,
+                    "endOffset": 2093
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 100,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2098,
+                    "endColumn": 109,
+                    "endOffset": 2203
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 362,
+                        "endColumn": 109,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2208,
+                    "endColumn": 80,
+                    "endOffset": 2284
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 80,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2289,
+                    "endColumn": 102,
+                    "endOffset": 2387
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 102,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2392,
+                    "endColumn": 115,
+                    "endOffset": 2503
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 115,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2508,
+                    "endColumn": 105,
+                    "endOffset": 2609
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 105,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2614,
+                    "endColumn": 87,
+                    "endOffset": 2697
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 87,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2702,
+                    "endColumn": 85,
+                    "endOffset": 2783
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 85,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2788,
+                    "endColumn": 88,
+                    "endOffset": 2872
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1052,
+                        "endColumn": 88,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2877,
+                    "endColumn": 83,
+                    "endOffset": 2956
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 83,
+                        "endOffset": 1220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2961,
+                    "endColumn": 96,
+                    "endOffset": 3053
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1225,
+                        "endColumn": 96,
+                        "endOffset": 1317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3058,
+                    "endColumn": 100,
+                    "endOffset": 3154
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2179,
+                        "endColumn": 100,
+                        "endOffset": 2275
+                    }
+                }
+            }
+        ]
+    }
+]

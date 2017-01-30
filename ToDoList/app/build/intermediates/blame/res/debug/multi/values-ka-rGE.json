@@ -1,0 +1,1784 @@
+[
+    {
+        "outputFile": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka-rGE\\values-ka-rGE.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 108,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 107,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 107,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 122,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endColumn": 122,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 103,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 103,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 110,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 110,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 87,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 87,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 104,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 104,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 112,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1039,
+                        "endColumn": 112,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endColumn": 83,
+                    "endOffset": 1045
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 83,
+                        "endOffset": 1231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1050,
+                    "endColumn": 81,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1236,
+                        "endColumn": 81,
+                        "endOffset": 1313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endColumn": 82,
+                    "endOffset": 1210
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1318,
+                        "endColumn": 82,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1215,
+                    "endColumn": 112,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 112,
+                        "endOffset": 1509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1328,
+                    "endColumn": 106,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1514,
+                        "endColumn": 106,
+                        "endOffset": 1616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 97,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1621,
+                        "endColumn": 97,
+                        "endOffset": 1714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endColumn": 112,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1719,
+                        "endColumn": 112,
+                        "endOffset": 1827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 103,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1832,
+                        "endColumn": 103,
+                        "endOffset": 1931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endColumn": 103,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1936,
+                        "endColumn": 103,
+                        "endOffset": 2035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 121,
+                    "endOffset": 1971
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2040,
+                        "endColumn": 121,
+                        "endOffset": 2157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1976,
+                    "endColumn": 97,
+                    "endOffset": 2069
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2162,
+                        "endColumn": 97,
+                        "endOffset": 2255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2074,
+                    "endColumn": 104,
+                    "endOffset": 2174
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 104,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2179,
+                    "endColumn": 111,
+                    "endOffset": 2286
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 111,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2291,
+                    "endColumn": 82,
+                    "endOffset": 2369
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 82,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2374,
+                    "endColumn": 111,
+                    "endOffset": 2481
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 111,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2486,
+                    "endColumn": 118,
+                    "endOffset": 2600
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endColumn": 118,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2605,
+                    "endColumn": 112,
+                    "endOffset": 2713
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 112,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2718,
+                    "endColumn": 95,
+                    "endOffset": 2809
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 95,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2814,
+                    "endColumn": 91,
+                    "endOffset": 2901
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 91,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2906,
+                    "endColumn": 92,
+                    "endOffset": 2994
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1097,
+                        "endColumn": 92,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2999,
+                    "endColumn": 87,
+                    "endOffset": 3082
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 87,
+                        "endOffset": 1273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3087,
+                    "endColumn": 95,
+                    "endOffset": 3178
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1278,
+                        "endColumn": 95,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3183,
+                    "endColumn": 100,
+                    "endOffset": 3279
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2260,
+                        "endColumn": 100,
+                        "endOffset": 2356
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 108,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 107,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 107,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 122,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endColumn": 122,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 103,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 103,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 110,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 110,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 87,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 87,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 104,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 104,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 112,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1039,
+                        "endColumn": 112,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endColumn": 83,
+                    "endOffset": 1045
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 83,
+                        "endOffset": 1231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1050,
+                    "endColumn": 81,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1236,
+                        "endColumn": 81,
+                        "endOffset": 1313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endColumn": 82,
+                    "endOffset": 1210
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1318,
+                        "endColumn": 82,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1215,
+                    "endColumn": 112,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 112,
+                        "endOffset": 1509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1328,
+                    "endColumn": 106,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1514,
+                        "endColumn": 106,
+                        "endOffset": 1616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 97,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1621,
+                        "endColumn": 97,
+                        "endOffset": 1714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endColumn": 112,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1719,
+                        "endColumn": 112,
+                        "endOffset": 1827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 103,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1832,
+                        "endColumn": 103,
+                        "endOffset": 1931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endColumn": 103,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1936,
+                        "endColumn": 103,
+                        "endOffset": 2035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 121,
+                    "endOffset": 1971
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2040,
+                        "endColumn": 121,
+                        "endOffset": 2157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1976,
+                    "endColumn": 97,
+                    "endOffset": 2069
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2162,
+                        "endColumn": 97,
+                        "endOffset": 2255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2074,
+                    "endColumn": 104,
+                    "endOffset": 2174
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 104,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2179,
+                    "endColumn": 111,
+                    "endOffset": 2286
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 111,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2291,
+                    "endColumn": 82,
+                    "endOffset": 2369
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 82,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2374,
+                    "endColumn": 111,
+                    "endOffset": 2481
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 111,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2486,
+                    "endColumn": 118,
+                    "endOffset": 2600
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endColumn": 118,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2605,
+                    "endColumn": 112,
+                    "endOffset": 2713
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 112,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2718,
+                    "endColumn": 95,
+                    "endOffset": 2809
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 95,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2814,
+                    "endColumn": 91,
+                    "endOffset": 2901
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 91,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2906,
+                    "endColumn": 92,
+                    "endOffset": 2994
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1097,
+                        "endColumn": 92,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2999,
+                    "endColumn": 87,
+                    "endOffset": 3082
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 87,
+                        "endOffset": 1273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3087,
+                    "endColumn": 95,
+                    "endOffset": 3178
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1278,
+                        "endColumn": 95,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3183,
+                    "endColumn": 100,
+                    "endOffset": 3279
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2260,
+                        "endColumn": 100,
+                        "endOffset": 2356
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka-rGE\\values-ka-rGE.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 108,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 107,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 107,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 122,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endColumn": 122,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 103,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 103,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 110,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 110,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 87,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 87,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 104,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 104,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 112,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1039,
+                        "endColumn": 112,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endColumn": 83,
+                    "endOffset": 1045
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 83,
+                        "endOffset": 1231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1050,
+                    "endColumn": 81,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1236,
+                        "endColumn": 81,
+                        "endOffset": 1313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endColumn": 82,
+                    "endOffset": 1210
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1318,
+                        "endColumn": 82,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1215,
+                    "endColumn": 112,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 112,
+                        "endOffset": 1509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1328,
+                    "endColumn": 106,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1514,
+                        "endColumn": 106,
+                        "endOffset": 1616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 97,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1621,
+                        "endColumn": 97,
+                        "endOffset": 1714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endColumn": 112,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1719,
+                        "endColumn": 112,
+                        "endOffset": 1827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 103,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1832,
+                        "endColumn": 103,
+                        "endOffset": 1931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endColumn": 103,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1936,
+                        "endColumn": 103,
+                        "endOffset": 2035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 121,
+                    "endOffset": 1971
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2040,
+                        "endColumn": 121,
+                        "endOffset": 2157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1976,
+                    "endColumn": 97,
+                    "endOffset": 2069
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2162,
+                        "endColumn": 97,
+                        "endOffset": 2255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2074,
+                    "endColumn": 104,
+                    "endOffset": 2174
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 104,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2179,
+                    "endColumn": 111,
+                    "endOffset": 2286
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 111,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2291,
+                    "endColumn": 82,
+                    "endOffset": 2369
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 82,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2374,
+                    "endColumn": 111,
+                    "endOffset": 2481
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 111,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2486,
+                    "endColumn": 118,
+                    "endOffset": 2600
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endColumn": 118,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2605,
+                    "endColumn": 112,
+                    "endOffset": 2713
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 112,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2718,
+                    "endColumn": 95,
+                    "endOffset": 2809
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 95,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2814,
+                    "endColumn": 91,
+                    "endOffset": 2901
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 91,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2906,
+                    "endColumn": 92,
+                    "endOffset": 2994
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1097,
+                        "endColumn": 92,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2999,
+                    "endColumn": 87,
+                    "endOffset": 3082
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 87,
+                        "endOffset": 1273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3087,
+                    "endColumn": 95,
+                    "endOffset": 3178
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1278,
+                        "endColumn": 95,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3183,
+                    "endColumn": 100,
+                    "endOffset": 3279
+                },
+                "from": {
+                    "file": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2260,
+                        "endColumn": 100,
+                        "endOffset": 2356
+                    }
+                }
+            }
+        ]
+    }
+]

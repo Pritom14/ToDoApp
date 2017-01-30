@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\mdtp_date_picker_dialog.xml",
+        "source": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\layout-sw600dp-land\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\mdtp_date_picker_dialog.xml",
+        "source": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\layout-sw600dp-land\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/mdtp_date_picker_dialog.xml",
+        "source": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/layout-sw600dp-land/mdtp_date_picker_dialog.xml"
+    }
+]

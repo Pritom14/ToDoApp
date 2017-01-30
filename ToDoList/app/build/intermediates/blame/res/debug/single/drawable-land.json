@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color_dark.xml",
+        "source": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\drawable-land\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/res/merged/debug/drawable-land/mdtp_done_background_color.xml",
+        "source": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/drawable-land/mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color_dark.xml",
+        "source": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\drawable-land\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color.xml",
+        "source": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\drawable-land\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color.xml",
+        "source": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/D:\\Andriod\\PROJECT_1.1\\PROJECT_01\\ToDoList\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.5.1\\res\\drawable-land\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/res/merged/debug/drawable-land/mdtp_done_background_color_dark.xml",
+        "source": "/home/shaloin/Desktop/PROJECT_01-master/ToDoList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.5.1/res/drawable-land/mdtp_done_background_color_dark.xml"
+    }
+]

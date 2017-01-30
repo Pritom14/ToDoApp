@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ashishgru.acagild.todolist"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="ANDROID.PERMISSION.INTERNET" />
+    <uses-permission android:name="ANDROID.PERMISSION.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!--
+We set theme to DarkTheme because when the app opens it shows
+    a white screen if our theme here is LightTheme. The screen is shown for
+    about 1 second, but it's jarring if users have set Night Mode to true.
+    -->
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/CustomStyle.DarkTheme" >
+        <activity
+            android:name="ashishgru.acagild.todolist.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ashishgru.acagild.todolist.AddToDoActivity"
+            android:parentActivityName="ashishgru.acagild.todolist.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ashishgru.acagild.todolist.AboutActivity"
+            android:label="@string/app_name"
+            android:parentActivityName="ashishgru.acagild.todolist.MainActivity" />
+        <activity
+            android:name="ashishgru.acagild.todolist.ReminderActivity"
+            android:label="@string/app_name" />
+
+        <service android:name="ashishgru.acagild.todolist.TodoNotificationService" />
+        <service android:name="ashishgru.acagild.todolist.DeleteNotificationService" />
+
+        <activity
+            android:name="ashishgru.acagild.todolist.SettingsActivity"
+            android:parentActivityName="ashishgru.acagild.todolist.MainActivity" />
+    </application>
+
+</manifest>
